@@ -1,5 +1,10 @@
 # futurimo
-## You can check tuts.py for quick 'futurimo' tutorial.
+
+## Welcome to the dev branch.
+
+This is the branch that you can commit. 'master' branch will be the stable version and 'dev' branch will be used for open commits.
+
+## 
 
 Futu is an extended customized function database, and Rimo is a custom shell that can be used in various situations.
 
